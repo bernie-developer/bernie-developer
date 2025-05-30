@@ -9,7 +9,7 @@ Building innovative solutions in web development, blockchain, and AI.
 
 ```
 🛠️ Always building ✨
-    └─ connect: [@holland](https://farcaster.xyz/holland)
+    └─ connect: [@holland] Farcaster
 ```
 <!---
 bernie-developer/bernie-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
