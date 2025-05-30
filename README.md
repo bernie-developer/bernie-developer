@@ -9,9 +9,7 @@ Exploring the intersection of code, creativity, and emerging technologies with a
 ---
 
 🛠️ Always building ✨
-
-[holland](https://farcaster.xyz/holland)
-
+    └─ connect: [@holland](https://farcaster.xyz/holland)
 
 <!---
 bernie-developer/bernie-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
