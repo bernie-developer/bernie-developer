@@ -6,7 +6,6 @@ Exploring the intersection of code, creativity, and emerging technologies with a
 
 **Multilingual 🇳🇱 🇪🇸 🇺🇸 • Global mindset** 🌍
 
----
 ```
 🛠️ Always building ✨
     └─ connect: [@holland](https://farcaster.xyz/holland)
