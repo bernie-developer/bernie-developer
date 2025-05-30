@@ -1,8 +1,15 @@
-Hi there, I’m a developer  🤝
+# Hi, I'm Bernie 👋
 
-About me:
+**Builder • Developer • Creator**
 
-- I’m interested in 👨‍💻 Development, 💻  Tech, Blockchain, AI and :electron: Science
+Exploring the intersection of code, creativity, and emerging technologies with a global perspective. Building innovative solutions in web development, blockchain, and AI.
+
+**Multilingual 🇳🇱 🇪🇸 🇺🇸 • Global mindset** 🌍
+
+---
+
+🛠️ Always building ✨
+
 
 <!---
 bernie-developer/bernie-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
