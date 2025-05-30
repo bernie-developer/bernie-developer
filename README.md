@@ -5,7 +5,7 @@
 Exploring the intersection of code, creativity, and emerging technologies with a global perspective.  
 Building innovative solutions in web development, blockchain, and AI.
 
-**Multilingual 🇳🇱 🇪🇸 🇺🇸 • Global mindset** 🌍
+**Multilingual 🇳🇱 🇪🇸 🇺🇸 • Global mindset**  🌍
 
 ```
 🛠️ Always building ✨
