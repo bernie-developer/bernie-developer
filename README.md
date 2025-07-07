@@ -1,4 +1,4 @@
-### Hi, I'm Bernie 👋
+### Hi, I'm Bernard 👋
 
 **Builder • Developer • Creator**
 
